@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    
+}
+
+
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    border-style: solid;
+    padding: 1px;
+    margin: 1px;
+    width: 500px;
+}
+
+
+.home{
+    font-size: 50px;
+}
+
+.guest{
+    font-size: 50px;
+}
+
+.homecounter {
+  background-color: aqua;
+    border-style: solid;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 50px;
+}
+
+
+.guestcounter {
+    background-color: aqua;
+    border-style: solid;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 50px;
+    
+}
+
+.home {
+    text-align: center;
+}
+
+.guest{
+    text-align: center;
+}
